@@ -1,0 +1,41 @@
+body {
+  background-color: #404258;
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+}
+
+.form-control {
+  background-color: #50577a;
+  color: #fff;
+  border-color: #6b728e;
+}
+
+.form-control:focus {
+  background-color: #50577a;
+  color: #fff;
+  border-color: #6b728e;
+  box-shadow: 0 0 0 0.2rem rgba(107, 114, 142, 0.5);
+}
+
+.btn-primary {
+  background-color: #6b728e;
+  border-color: #6b728e;
+}
+
+.btn-primary:hover {
+  background-color: #474e68;
+  border-color: #474e68;
+}
+
+.table {
+  background-color: #50577a;
+  color: #fff;
+}
+
+.table thead th {
+  background-color: #6b728e;
+  color: #fff;
+}
